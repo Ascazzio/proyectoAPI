@@ -1,0 +1,22 @@
+{
+  "name": "proyectoapi",
+  "version": "1.0.0",
+  "description": "proyecto para geekhubs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ascazzio/proyectoAPI.git"
+  },
+  "author": "Fabrizio Pironi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ascazzio/proyectoAPI/issues"
+  },
+  "homepage": "https://github.com/Ascazzio/proyectoAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
